@@ -1,0 +1,11 @@
+jupyter_client
+jupyter-contrib-nbextensions
+jupyter_core
+jupyter-highlight-selected-word
+jupyter-latex-envs
+jupyter-nbextensions-configurator
+jupyter-server
+jupyterlab
+jupyterlab-pygments
+jupyterlab_server
+jupyterlab-widgets
